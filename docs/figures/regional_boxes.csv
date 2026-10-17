@@ -1,0 +1,3 @@
+region,west,east_exclusive,south,north_exclusive,grid_cells,minimum_valid_area_fraction
+Western box,12.0,14.0,51.0,53.0,400,1.0
+Eastern box,15.0,17.0,51.0,53.0,400,1.0
